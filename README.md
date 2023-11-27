@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋 I'm Jinto Antony ✨
 
 I'm ✨ Jinto Antony, a software developer passionate about creating innovative solutions and exploring new technologies
 
