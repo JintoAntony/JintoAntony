@@ -10,9 +10,9 @@ I'm ✨ Jinto Antony, a software developer passionate about creating innovative 
 - 📫 How to reach me: You can reach me via email at jinto1729@gmail.com or on WhatsApp at +91 9895-780759
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid Traveller and Foodie!
-- Programming Languages · Agile · Open AI · Full Stack · Back End · Python · Django · Java Script · Node.js · React.js · Vue.js · Angular
-- ReactNative · PHP · Laravel · Java · Spring · Hibernate · Database Systems · PostgreSQL · MySQL · Elastic Search · MongoDB
-- DevOps · Docker · Jenkins · Kubernetes · Version Control · Git · Artificial Intelligence · Machine Learning
+- 👨🏻‍💻 Programming Languages · Agile · Open AI · Full Stack · Back End · Python · Django · Java Script · Node.js · React.js · Vue.js
+- 🌐 Angular · ReactNative · PHP · Laravel · Java · Spring · Hibernate · Database Systems · PostgreSQL · MySQL · Elastic Search · MongoDB
+- 💡 DevOps · Docker · Jenkins · Kubernetes · Version Control · Git · Artificial Intelligence · Machine Learning
 
 <!--
 **JintoAntony/JintoAntony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
