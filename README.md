@@ -4,15 +4,11 @@ I’m a **Senior Software / AI Engineer** with **10+ years of experience**, buil
 
 I enjoy solving complex problems, designing clean architectures, and turning ideas into reliable, production-ready systems.
 
----
-
 #### 🚀 What I’m working on
 
 * 🔭 Building **AI-powered and backend-heavy platforms** for enterprise clients
 * 🏦 Designing **scalable microservices** for **trade finance** use cases
 * 🤖 Applying **Generative AI & ML** to real-world business problems
-
----
 
 #### 🌱 What I’m learning
 
@@ -20,14 +16,10 @@ I enjoy solving complex problems, designing clean architectures, and turning ide
 * **System design & performance optimization** at scale
 * **Cloud-native architectures** and observability
 
----
-
 #### 🤝 Open to
 
 * 👯 Collaborating on **backend, AI, and system design–focused open-source projects**
 * 🧠 Discussions around **architecture, performance tuning, and clean code practices**
-
----
 
 #### 💬 Ask me about
 
@@ -35,8 +27,6 @@ I enjoy solving complex problems, designing clean architectures, and turning ide
 * **Microservices, databases, and performance optimization**
 * **AI/ML integration** in production systems
 * Trade finance domain tech & enterprise platforms
-
----
 
 #### 🧰 Tech Stack
 
@@ -60,26 +50,18 @@ I enjoy solving complex problems, designing clean architectures, and turning ide
 * Docker · Kubernetes · Jenkins · CI/CD
 * Git · Linux · Cloud-native architectures
 
----
 
 #### 📫 Reach me
 
 * 📧 **Email:** [jinto1729@gmail.com](mailto:jinto1729@gmail.com)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/jintoantony/](https://www.linkedin.com/in/jintoantony/)
----
 
 #### ⚡ Fun fact
 I’m a traveller, foodie, and tech explorer—equally excited about clean code and discovering new cuisines 😄
 
----
-
 #### 📊 GitHub Stats
 ![Jinto Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jintoantony&show_icons=true&theme=tokyonight&count_private=true)
 
----
-
 #### 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jintoantony&layout=compact&theme=tokyonight)
-
-
 
