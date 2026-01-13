@@ -59,10 +59,3 @@ I enjoy solving complex problems, designing clean architectures, and turning ide
 #### ⚡ Fun fact
 I’m a traveller, foodie, and tech explorer—equally excited about clean code and discovering new cuisines 😄
 
-#### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jintoantony&show_icons=true&theme=tokyonight)
-
-#### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jintoantony&layout=compact&theme=tokyonight)
-
-
