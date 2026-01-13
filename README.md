@@ -65,19 +65,12 @@ I enjoy solving complex problems, designing clean architectures, and turning ide
 #### 📫 Reach me
 
 * 📧 **Email:** [jinto1729@gmail.com](mailto:jinto1729@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/jintoantony/]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/jintoantony/](https://www.linkedin.com/in/jintoantony/)
 ---
 
 #### ⚡ Fun fact
 
 I’m a **traveller, foodie, and tech explorer**—equally excited about clean code and discovering new cuisines 😄
 
----
-
-If you want, I can also:
-
-* Make a **shorter, punchy GitHub bio**
-* Tailor this for **AI-first**, **Backend Architect**, or **Tech Lead** positioning
-* Optimize it for **recruiter visibility** or **open-source collaboration**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jintoantony&show_icons=true&locale=en" alt="ashishps1" /></p>
