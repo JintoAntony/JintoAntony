@@ -72,5 +72,10 @@ I enjoy solving complex problems, designing clean architectures, and turning ide
 
 I’m a **traveller, foodie, and tech explorer**—equally excited about clean code and discovering new cuisines 😄
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jintoantony&show_icons=true&locale=en&theme=tokyonight"
+    alt="Jinto Antony's GitHub stats"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jintoantony&show_icons=true&locale=en" alt="ashishps1" /></p>
