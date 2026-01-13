@@ -1,32 +1,83 @@
-### Hello! 👋 I'm Jinto Antony ✨
+### Hello! 👋 I’m **Jinto Antony** ✨
 
-I'm ✨ Jinto Antony, a software developer passionate about creating innovative solutions and exploring new technologies
+I’m a **Senior Software / AI Engineer** with **10+ years of experience**, building **scalable backend systems, AI-driven platforms, and enterprise-grade solutions**—especially in the **trade finance and fintech** domain.
 
-- 🔭 I’m currently working on enhancing a web application for a client to streamline their workflow
-- 🌱 I’m currently learning more about machine learning algorithms and their applications in data analysis
-- 👯 I’m looking to collaborate on open-source projects related to web development or data science
-- 🤔 I’m looking for help with optimizing database performance in large-scale applications
-- 💬 Ask me about JavaScript frameworks (React, Node.js), Python programming, or web development in general
-- 📫 How to reach me: You can reach me via email at jinto1729@gmail.com or on WhatsApp at +91 9895-780759
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid Traveller and Foodie!
-- 👨🏻‍💻 Programming Languages · Agile · Open AI · Full Stack · Back End · Python · Django · Java Script · Node.js · React.js · Vue.js
-- 🌐 Angular · ReactNative · PHP · Laravel · Java · Spring · Hibernate · Database Systems · PostgreSQL · MySQL · Elastic Search
-- 💡 MongoDB · DevOps · Docker · Jenkins · Kubernetes · Version Control · Git · Artificial Intelligence · Machine Learning
+I enjoy solving complex problems, designing clean architectures, and turning ideas into reliable, production-ready systems.
 
-<!--
-**JintoAntony/JintoAntony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🚀 What I’m working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Building **AI-powered and backend-heavy platforms** for enterprise clients
+* 🏦 Designing **scalable microservices** for **trade finance** use cases
+* 🤖 Applying **Generative AI & ML** to real-world business problems
+
+---
+
+#### 🌱 What I’m learning
+
+* Advanced **Generative AI** (LLMs, embeddings, RAG, AI agents)
+* **System design & performance optimization** at scale
+* **Cloud-native architectures** and observability
+
+---
+
+#### 🤝 Open to
+
+* 👯 Collaborating on **backend, AI, and system design–focused open-source projects**
+* 🧠 Discussions around **architecture, performance tuning, and clean code practices**
+
+---
+
+#### 💬 Ask me about
+
+* Backend engineering & APIs (**Python, Flask, Django**)
+* **Microservices, databases, and performance optimization**
+* **AI/ML integration** in production systems
+* Trade finance domain tech & enterprise platforms
+
+---
+
+#### 🧰 Tech Stack
+
+**Languages & Frameworks**
+
+* Python · JavaScript · Java · PHP
+* Flask · Django · Node.js · React.js · Vue.js · Angular
+* Spring · Hibernate · Laravel
+
+**Databases & Search**
+
+* PostgreSQL · MySQL · MariaDB · MongoDB · Elasticsearch
+
+**AI & Data**
+
+* Generative AI · Machine Learning · OpenAI / Azure OpenAI
+* Hugging Face · NLP · Semantic Search
+
+**DevOps & Cloud**
+
+* Docker · Kubernetes · Jenkins · CI/CD
+* Git · Linux · Cloud-native architectures
+
+---
+
+#### 📫 Reach me
+
+* 📧 **Email:** [jinto1729@gmail.com](mailto:jinto1729@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/jintoantony/]
+---
+
+#### ⚡ Fun fact
+
+I’m a **traveller, foodie, and tech explorer**—equally excited about clean code and discovering new cuisines 😄
+
+---
+
+If you want, I can also:
+
+* Make a **shorter, punchy GitHub bio**
+* Tailor this for **AI-first**, **Backend Architect**, or **Tech Lead** positioning
+* Optimize it for **recruiter visibility** or **open-source collaboration**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jintoantony&show_icons=true&locale=en" alt="ashishps1" /></p>
